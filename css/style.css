@@ -448,7 +448,7 @@ div.slogan h1.bold {
 
 .section6 .tablet {
   height: 52vh;
-  background: url("https://png.pngtree.com/element_origin_min_pic/16/12/04/ba40807f6fa98e83356faf53ddd65202.jpg") top/cover;
+  background: url("../images/tablet.png") top/cover;
 }
 
 @media (max-width: 900px) {
